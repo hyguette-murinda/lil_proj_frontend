@@ -11,7 +11,7 @@ html{
 .mainest{
     width: 100%;
     height: 100vh;
-    background:linear-gradient(rgba(131, 131, 127, 0.573),rgba(93, 95, 82, 0.6)), url(../images/intare4.png);
+    background:linear-gradient(rgba(30, 30, 29, 0.573),rgba(39, 39, 38, 0.6)), url(../images/ar2.webp);
    background-position: left;
    background-size: cover;
    }
