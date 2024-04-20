@@ -43,3 +43,21 @@ span{
     padding-right: 0.5em;
    
     }
+    #btn1{
+        margin-left: 15%;
+        margin-right: 2em;
+    }
+    button{
+        margin-top: 2em;
+        width: 13em;
+        height: 2.8em;
+        border-style: none;
+        border-radius: 2em;
+        text-transform: capitalize;
+        background-color: #4218e9;
+        color: aliceblue;
+    }
+    button:hover{
+        color: white;
+        background-color:#4250b7 ;
+    }
